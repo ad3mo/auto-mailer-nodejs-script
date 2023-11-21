@@ -4,14 +4,14 @@
 Use this script to send multiple custom emails to diffrents targets at the same time. (from your Gmail account)
 
 
-## Requirements
+## Dependencies
 
 dotenv
 google-auth-library
 nodemailer
 
     
-## Run Locally
+## Usage
 
 Clone the project
 
