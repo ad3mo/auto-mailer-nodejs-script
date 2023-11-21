@@ -1,0 +1,12 @@
+[
+    {
+        "targetEmail":"target@mail.com",
+        "varjson1":"value1",
+        "varjson2":"value2"
+    },
+    {
+        "targetEmail":"target2@mail.com",
+        "varjson1":"value3",
+        "varjson2":"value4"
+    }
+]
